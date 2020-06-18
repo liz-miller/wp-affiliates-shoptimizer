@@ -1,0 +1,4 @@
+/*affiliates tab $ icon*/
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--affiliate-dashboard a:before {
+    content: "\FF04";
+}
