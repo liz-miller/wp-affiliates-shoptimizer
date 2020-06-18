@@ -2,8 +2,11 @@
 Adds support for WP Affiliate Manager in the Shoptimizer Theme. 
 Creates an Affiliates Tab in My Account.
 
+![Example Feature](https://github.com/liz-miller/wp-affiliates-shoptimizer/blob/master/WP%20Affilates%20Manager%20for%20Shoptimizer.png)
+
 # Requirements
 You must have the WP Affiliate Manager plugin installed and activated.
+
 Plugin: https://wpaffiliatemanager.com/
 
 This plugin requires 3 pages, which I've created on the following links:
